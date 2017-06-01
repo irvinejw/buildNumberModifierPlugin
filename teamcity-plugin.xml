@@ -5,7 +5,7 @@
     <display-name>Build Number Modifier Plugin</display-name>
     <version>0.9.4</version>
     <description>Performs conditional modification to build numbers</description>
-    <download-url>https://github.com/irvinejw</download-url>
+    <download-url>https://github.com/irvinejw/buildNumberModifierPlugin</download-url>
     <email>irvinejw@gmail.com</email>
     <vendor>
       <name>Jeff Irvine</name>
